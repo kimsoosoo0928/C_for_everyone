@@ -1,0 +1,5 @@
+﻿  int_size.cpp
+C:\Users\kimhs\Desktop\workspace\C\Hello_World\2_5\int_size.cpp(7,6): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\kimhs\Desktop\workspace\C\Hello_World\2_5\int_size.cpp(9,17): warning C4305: '=': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\kimhs\Desktop\workspace\C\Hello_World\2_5\int_size.cpp(9,7): warning C4309: '=': 상수 값이 잘립니다.
+  2_5.vcxproj -> C:\Users\kimhs\Desktop\workspace\C\Hello_World\Debug\2_5.exe
