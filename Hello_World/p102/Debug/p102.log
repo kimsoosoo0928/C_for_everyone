@@ -1,0 +1,2 @@
+﻿  relational.cpp
+C:\Users\kimso\Desktop\workspace\C\C_for_everyone\Hello_World\p102\relational.cpp(3,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
